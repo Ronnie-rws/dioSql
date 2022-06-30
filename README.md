@@ -1,0 +1,1 @@
+Iniciando mysql pela dio.
